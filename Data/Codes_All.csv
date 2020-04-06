@@ -1,0 +1,310 @@
+code,name
+AFG,Afghanistan
+AGO,Angola
+ALB,Albania
+ARE,United Arab Emirates
+ARG,Argentina
+ARM,Armenia
+ATF,French Southern and Antarctic Lands
+AU-ACT,Australian Capital Territory
+AU-NSW,New South Wales
+AU-NT,Northern Territory
+AU-QLD,Queensland
+AUS,Australia
+AU-SA,South Australia
+AUT,Austria
+AU-TAS,Tasmania
+AU-VIC,Victoria
+AU-WA,Western Australia
+AU-X02~,Jervis Bay Territory
+AZE,Azerbaijan
+BDI,Burundi
+BEL,Belgium
+BEN,Benin
+BFA,Burkina Faso
+BGD,Bangladesh
+BGR,Bulgaria
+BHS,The Bahamas
+BIH,Bosnia and Herzegovina
+BLR,Belarus
+BLZ,Belize
+BOL,Bolivia
+BRA,Brazil
+BR-AC,Acre
+BR-AL,Alagoas
+BR-AM,Amazonas
+BR-AP,AmapÃ¡
+BR-BA,Bahia
+BR-CE,CearÃ¡
+BR-DF,Distrito Federal
+BR-ES,EspÃ­rito Santo
+BR-GO,GoiÃ¡s
+BR-MA,MaranhÃ£o
+BR-MG,Minas Gerais
+BR-MS,Mato Grosso do Sul
+BR-MT,Mato Grosso
+BRN,Brunei
+BR-PA,ParÃ¡
+BR-PB,ParaÃ­ba
+BR-PE,Pernambuco
+BR-PI,PiauÃ­
+BR-PR,ParanÃ¡
+BR-RJ,Rio de Janeiro
+BR-RN,Rio Grande do Norte
+BR-RO,RondÃ´nia
+BR-RR,Roraima
+BR-RS,Rio Grande do Sul
+BR-SC,Santa Catarina
+BR-SE,Sergipe
+BR-SP,SÃ£o Paulo
+BR-TO,Tocantins
+BTN,Bhutan
+BWA,Botswana
+CA-AB,Alberta
+CA-BC,British Columbia
+CAF,Central African Republic
+CA-MB,Manitoba
+CAN,Canada
+CA-NB,New Brunswick
+CA-NL,Newfoundland and Labrador
+CA-NS,Nova Scotia
+CA-NT,Northwest Territories
+CA-NU,Nunavut
+CA-ON,Ontario
+CA-PE,Prince Edward Island
+CA-QC,QuÃ©bec
+CA-SK,Saskatchewan
+CA-YT,Yukon
+CHE,Switzerland
+CHL,Chile
+CHN,China
+CIV,Ivory Coast
+CMR,Cameroon
+CN-AH,Anhui
+CN-BJ,Beijing
+CN-CQ,Chongqing
+CN-FJ,Fujian
+CN-GD,Guangdong
+CN-GS,Gansu
+CN-GX,Guangxi
+CN-GZ,Guizhou
+CN-HA,Hainan
+CN-HB,Hebei
+CN-HE,Henan
+CN-HL,Heilongjiang
+CN-HN,Hunan
+CN-HU,Hubei
+CN-JL,Jilin
+CN-JS,Jiangsu
+CN-JX,Jiangxi
+CN-LN,Liaoning
+CN-NM,Nei Mongol
+CN-NX,Ningxia Hui
+CN-QH,Qinghai
+CN-SA,Shaanxi
+CN-SC,Sichuan
+CN-SD,Shandong
+CN-SH,Shanghai
+CN-SX,Shanxi
+CN-TJ,Tianjin
+CN-XJ,Xinjiang Uygur
+CN-XZ,Xizang
+CN-YN,Yunnan
+CN-ZJ,Zhejiang
+CN-ZJ,Zhejiang
+CN-ZJ,Zhejiang
+COD,Democratic Republic of the Congo
+COG,Republic of the Congo
+COL,Colombia
+CRI,Costa Rica
+CUB,Cuba
+CYN,Northern Cyprus
+CYP,Cyprus
+CZE,Czechia
+DEU,Germany
+DJI,Djibouti
+DNK,Denmark
+DOM,Dominican Republic
+DZA,Algeria
+ECU,Ecuador
+EGY,Egypt
+ERI,Eritrea
+ESP,Spain
+EST,Estonia
+ETH,Ethiopia
+FIN,Finland
+FJI,Fiji
+FLK,Falkland Islands
+FRA,France
+GAB,Gabon
+GBR,United Kingdom
+GEO,Georgia
+GHA,Ghana
+GIN,Guinea
+GMB,Gambia
+GNB,Guinea-Bissau
+GNQ,Equatorial Guinea
+GRC,Greece
+GRL,Greenland
+GTM,Guatemala
+GUY,Guyana
+HND,Honduras
+HRV,Croatia
+HTI,Haiti
+HUN,Hungary
+IDN,Indonesia
+IND,India
+IRL,Ireland
+IRN,Iran
+IRQ,Iraq
+ISL,Iceland
+ISR,Israel
+ITA,Italy
+JAM,Jamaica
+JOR,Jordan
+JPN,Japan
+KAZ,Kazakhstan
+KEN,Kenya
+KGZ,Kyrgyzstan
+KHM,Cambodia
+KOR,South Korea
+KOS,Kosovo
+KWT,Kuwait
+LAO,Laos
+LBN,Lebanon
+LBR,Liberia
+LBY,Libya
+LKA,Sri Lanka
+LSO,Lesotho
+LTU,Lithuania
+LUX,Luxembourg
+LVA,Latvia
+MAR,Morocco
+MDA,Moldova
+MDG,Madagascar
+MEX,Mexico
+MKD,Macedonia
+MLI,Mali
+MMR,Myanmar
+MNE,Montenegro
+MNG,Mongolia
+MOZ,Mozambique
+MRT,Mauritania
+MWI,Malawi
+MYS,Malaysia
+NAM,Namibia
+NCL,New Caledonia
+NER,Niger
+NGA,Nigeria
+NIC,Nicaragua
+NLD,Netherlands
+NOR,Norway
+NPL,Nepal
+NZL,New Zealand
+OMN,Oman
+PAK,Pakistan
+PAN,Panama
+PER,Peru
+PHL,Philippines
+PNG,Papua New Guinea
+POL,Poland
+PRI,Puerto Rico
+PRK,North Korea
+PRT,Portugal
+PRY,Paraguay
+PSX,Palestine
+QAT,Qatar
+ROU,Romania
+RUS,Russia
+RWA,Rwanda
+SAH,Western Sahara
+SAU,Saudi Arabia
+SDN,Sudan
+SDS,South Sudan
+SEN,Senegal
+SLB,Solomon Islands
+SLE,Sierra Leone
+SLV,El Salvador
+SOL,Somaliland
+SOM,Somalia
+SRB,Republic of Serbia
+SUR,Suriname
+SVK,Slovakia
+SVN,Slovenia
+SWE,Sweden
+SWZ,eSwatini
+SYR,Syria
+TCD,Chad
+TGO,Togo
+THA,Thailand
+TJK,Tajikistan
+TKM,Turkmenistan
+TLS,East Timor
+TTO,Trinidad and Tobago
+TUN,Tunisia
+TUR,Turkey
+TWN,Taiwan
+TZA,United Republic of Tanzania
+UGA,Uganda
+UKR,Ukraine
+URY,Uruguay
+USA,United States of America
+US-AK,Alaska
+US-AL,Alabama
+US-AR,Arkansas
+US-AZ,Arizona
+US-CA,California
+US-CO,Colorado
+US-CT,Connecticut
+US-DC,District of Columbia
+US-DE,Delaware
+US-FL,Florida
+US-GA,Georgia
+US-HI,Hawaii
+US-IA,Iowa
+US-ID,Idaho
+US-IL,Illinois
+US-IN,Indiana
+US-KS,Kansas
+US-KY,Kentucky
+US-LA,Louisiana
+US-MA,Massachusetts
+US-MD,Maryland
+US-ME,Maine
+US-MI,Michigan
+US-MN,Minnesota
+US-MO,Missouri
+US-MS,Mississippi
+US-MT,Montana
+US-NC,North Carolina
+US-ND,North Dakota
+US-NE,Nebraska
+US-NH,New Hampshire
+US-NJ,New Jersey
+US-NM,New Mexico
+US-NV,Nevada
+US-NY,New York
+US-OH,Ohio
+US-OK,Oklahoma
+US-OR,Oregon
+US-PA,Pennsylvania
+US-RI,Rhode Island
+US-SC,South Carolina
+US-SD,South Dakota
+US-TN,Tennessee
+US-TX,Texas
+US-UT,Utah
+US-VA,Virginia
+US-VT,Vermont
+US-WA,Washington
+US-WI,Wisconsin
+US-WV,West Virginia
+US-WY,Wyoming
+UZB,Uzbekistan
+VEN,Venezuela
+VNM,Vietnam
+VUT,Vanuatu
+YEM,Yemen
+ZAF,South Africa
+ZMB,Zambia
+ZWE,Zimbabwe

@@ -1,0 +1,56 @@
+Code,State,Cases,Deaths,Active
+,USA,120204,1997,114978
+US-NY,New York,52318,728,48864
+US-NJ,New Jersey,11124,140,10984
+US-CA,California,4980,104,4855
+US-MI,Michigan,4650,111,4534
+US-MA,Massachusetts,4257,44,4212
+US-FL,Florida,3763,54,3709
+US-WA,Washington,3723,175,3424
+US-IL,Illinois,3491,47,3442
+US-LA,Louisiana,3315,137,3178
+US-PA,Pennsylvania,2751,34,2717
+US-GA,Georgia,2366,69,2297
+US-TX,Texas,2329,30,2288
+US-CO,Colorado,1734,31,1703
+US-TN,Tennessee,1512,7,1505
+US-OH,Ohio,1406,25,1381
+US-CT,Connecticut,1291,27,1264
+US-IN,Indiana,1232,31,1201
+US-MD,Maryland,992,5,955
+US-WI,Wisconsin,989,15,972
+US-NC,North Carolina,952,4,948
+US-MO,Missouri,838,10,826
+US-AZ,Arizona,773,15,755
+US-VA,Virginia,739,17,720
+US-AL,Alabama,696,4,692
+US-MS,Mississippi,663,13,650
+US-SC,South Carolina,660,15,645
+US-NV,Nevada,621,10,611
+US-UT,Utah,602,2,600
+US-OR,Oregon,479,13,466
+US-MN,Minnesota,441,5,302
+US-AR,Arkansas,404,3,377
+US-KY,Kentucky,394,8,384
+US-OK,Oklahoma,377,15,361
+US-DC,District of Columbia,304,4,249
+US-IA,Iowa,298,3,277
+US-KS,Kansas,261,5,256
+US-RI,Rhode Island,239,2,237
+US-ID,Idaho,230,4,226
+US-DE,Delaware,213,3,201
+US-VT,Vermont,211,12,199
+US-ME,Maine,211,1,194
+US-NM,New Mexico,208,1,207
+US-NH,New Hampshire,187,2,185
+US-MT,Montana,129,1,128
+US-HI,Hawaii,120,0,120
+US-PR,Puerto Rico,100,3,96
+US-NE,Nebraska,96,2,94
+US-WV,West Virginia,96,1,95
+US-AK,Alaska,85,2,83
+US-ND,North Dakota,83,1,66
+US-WY,Wyoming,82,0,82
+US-SD,South Dakota,68,1,41
+US-GU,Guam,51,1,50
+US-VI,Virgin Islands,21,0,21
